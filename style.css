@@ -1,0 +1,45 @@
+.nav-link a:hover {
+    color: #aacc00;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    background-color: #f4f3ee;
+}
+
+footer {
+    background-color: antiquewhite;
+}
+.nav {
+    background-color: #cad2c5;
+    overflow: hidden;
+}
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+blockquote {
+    font-size: 25px;
+    text-align: center;
+}
+figcaption {
+    font-size: 20px;
+    text-align: right;
+    padding: 10px 10px;
+}
+footer {
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 20px;
+}
+main~footer {
+    background-color: #e3f2fd;
+}
+
